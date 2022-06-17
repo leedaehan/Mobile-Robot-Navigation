@@ -1,5 +1,4 @@
-# Mobile-Robot-Navigation using ROS Navigation Stack
-
+# Mobile-Robot-Navigation using ROS Move Base
 --------------------------------------------------------
 
 ### Odometry : Laser Scan Matcher
